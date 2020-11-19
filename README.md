@@ -12,14 +12,13 @@ sessions.
 , so be sure to manage you time to allow enough time to review all subjects
  of the course.
 - Get some rest, eat well, drink water, review your schedule, study. Repeat.
-- You can do it, trust me.
 - If you still did not, please fill the course evaluation for all courses
  you are enrolled. 
 
 
 
 ### HW12.1: Dining Philosophers
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-510 .html
+- https://cs.rit.edu/~hpb/Lectures/2201/605/605-510.html
 - Questions?
 
 ### HW12.2: Fixing it
