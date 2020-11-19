@@ -49,8 +49,7 @@ sessions.
 - PC.java
 - This is an example of an implementation of a consumer/producer problem
  using the Semaphore class, with strict consumer/producer thread ordering. 
-- https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java
-/util/concurrent/Semaphore.html
+- https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/util/concurrent/Semaphore.html
 - https://www.geeksforgeeks.org/producer-consumer-solution-using-semaphores-java/
 - What if we allow more than one item in the store?
 - PC2.java
