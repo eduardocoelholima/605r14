@@ -7,7 +7,7 @@ sessions.
 ---
 ### Reminders
 - As always, the link to these files is available on your 605 mycourses page
-, header Schedule: https://github.com/eduardocoelholima/605r13
+, header Schedule.
 - This is our last recitation for this course. Next week are finals
 , so be sure to manage you time to allow enough time to review all subjects
  of the course.
