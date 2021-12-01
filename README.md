@@ -13,33 +13,11 @@ sessions.
  of the course.
 - Get some rest, eat well, drink water, review your schedule, study. Repeat.
 - If you still did not, please fill the course evaluation for all courses
- you are enrolled. 
-
-
-
-### HW12.1: Dining Philosophers
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-510.html
-- Questions?
-
-### HW12.2: Fixing it
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-511.html
-- Questions?
-
-### HW12.3: Network-enabled Battleship game
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-512.html
-- Questions?
-
-
-
-
-### Last term Final exam
-- https://www.cs.rit.edu/~hpb/Lectures/2191/605/605-521.html#44.%20Final
-%20Exam%20—%20Dec/16/2019%20-%20version2f
-- Questions?
+ you are enrolled.
 
 ### Synchronizing RMI Clients
 - Hello*, rmi.sh
-- Let's recap https://cs.rit.edu/~hpb/Lectures/2201/605/605-340.html
+- Let's recap https://cs.rit.edu/~hpb/Lectures/2211/605/605-337.html
 - Now lets say you want that your clients proceed only after 3 clients
  connect to the server. How could we do that?
 - Try to change only these files: {HelloImplementationAlternative, HellowServer
@@ -54,18 +32,23 @@ sessions.
 - What if we allow more than one item in the store?
 - PC2.java
 
-### HW13.1: Networked Battleship game, choose who goes first 
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-514.html
-- Questions?
 
-### HW13.2: Networked Battleship game, using DatagramSocket class
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-515.html
+### 2019 Fall's Final exam
+- https://www.cs.rit.edu/~hpb/Lectures/2191/605/605-521.html#44.%20Final
+  %20Exam%20—%20Dec/16/2019%20-%20version2f
 - Questions?
+- 
+### HW13.1: Multi Producer Consumer problem
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-486.html
 
-### HW13.3: Networked Battleship game, using RMI
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-516.html
-- Questions?
+### HW13.2: Hangman over the network
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-486.html
 
+### HW13.3: Hangman with Datagrams
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-486.html
+
+### HW14.1: RMI Hangman game
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-490.html
 
 
 
