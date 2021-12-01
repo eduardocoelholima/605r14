@@ -5,6 +5,7 @@ as some notes used in RIT course CSCI605's recitation
 sessions.
 
 ---
+
 ### Reminders
 - As always, the link to these files is available on your 605 mycourses page
 , header Schedule.
@@ -20,7 +21,7 @@ sessions.
 - Let's recap https://cs.rit.edu/~hpb/Lectures/2211/605/605-337.html
 - Now lets say you want that your clients proceed only after 3 clients
  connect to the server. How could we do that?
-- Try to change only these files: {HelloImplementationAlternative, HellowServer
+- Try to change only these files: {HelloImplementationAlternative, HelloServer
  }.java 
 
 ### A Semaphore-based Consumer/Producer example
@@ -32,12 +33,6 @@ sessions.
 - What if we allow more than one item in the store?
 - PC2.java
 
-
-### 2019 Fall's Final exam
-- https://www.cs.rit.edu/~hpb/Lectures/2191/605/605-521.html#44.%20Final
-  %20Exam%20—%20Dec/16/2019%20-%20version2f
-- Questions?
-- 
 ### HW13.1: Multi Producer Consumer problem
 https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-486.html
 
