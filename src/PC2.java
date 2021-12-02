@@ -117,8 +117,11 @@ class PC2 {
 
         // starting consumer thread
         new Consumer2(q);
+//        new Consumer2(q);
+
 
         // starting producer thread
+        new Producer2(q);
         new Producer2(q);
     }
 }

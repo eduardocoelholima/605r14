@@ -8,7 +8,8 @@ public class HelloServer {
                 try {
                     HelloInterface obj = new HelloImplementation();
                     HelloInterface obj2 = new HelloImplementation();
-                    HelloInterface obj3 = new HelloImplementationSleep();
+                    HelloInterface obj3 = new HelloImplementation();
+//                    HelloInterface obj3 = new HelloImplementationSleep();
 //                    HelloInterface obj3 = new HelloImplementationAlternative();
                     Naming.rebind("//localhost/HelloServer", obj);
                     Naming.rebind("//localhost/HelloServer2", obj2);

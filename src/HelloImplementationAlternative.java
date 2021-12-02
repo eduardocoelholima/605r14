@@ -7,7 +7,7 @@ public class HelloImplementationAlternative
 
     int state;
     static int counter;
-    Object lock = new Object();
+    static Object lock = new Object();
 
     public HelloImplementationAlternative() throws RemoteException {
     }
@@ -18,11 +18,13 @@ public class HelloImplementationAlternative
     }
     public String sayHello(int state) throws RemoteException, InterruptedException {
         this.state = state;
-        counter++;
 
         System.out.println("Client "+counter+" connected");
 
         synchronized (lock) {
+
+            counter++;
+
             if (counter < 2) {
                 try {
                     lock.wait();

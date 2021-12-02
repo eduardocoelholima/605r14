@@ -16,7 +16,7 @@ public class HelloImplementationSleep
         public String sayHello() throws RemoteException {
 		counter ++;
                 System.out.println("sayHello before sleep");
-		try { Thread.sleep(10000); } catch (  InterruptedException e ) { }
+		try { Thread.sleep(5000); } catch (  InterruptedException e ) { }
                 System.out.println("sayHello after sleep");
                 return  "Spiegel: Hello World my Friend!";
         }
